@@ -3,4 +3,5 @@
 Este es un proyecto paa practicar conflictos de GIT.
 
 Aca escribiremos la informacion del proyecto.
-Empezaremos a generar conflictos. 
+Empezaremos a generar conflictos.
+Esperamos no tener mas conflictos 
